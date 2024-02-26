@@ -1,3 +1,3 @@
 # Puppeteer Docker XVFB
 
-check the `template` branch for a decent template
+Example using puppeteer stealth and XVFB with docker (runs on mac too)
